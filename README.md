@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on **Java Full Stack Projects**
 - 💬 Ask me about **Java, Spring Boot, React, and Full Stack Development**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gokul2916/)
-- ⚡ Fun fact: I enjoy problem-solving and exploring new technologies.
+- ⚡ I enjoy problem-solving and exploring new technologies.
 
 ---
 
@@ -45,22 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GOKUL29-06&theme=tokyonight&show_icons=true&hide=issues"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GOKUL29-06&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-### 🏆 Top Projects
-
-| Project Name | Description |
-|--------------|-------------|
-| **Project Alpha** | A Full Stack Java application using Spring Boot and React. |
-| **Project Beta** | A microservices-based project with Spring Cloud and Docker. |
-
----
-
-### ⚡ Fun Facts
-
-- I enjoy learning new languages like **Japanese** 🗣️
-- I’m always up for a good tech challenge!
 
 ---
 
