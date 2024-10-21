@@ -2,7 +2,7 @@
 <h3 align="center">Java Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="600"/>
+  <img align="center" src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="600"/> <!-- Your chosen banner -->
 </p>
 
 ---
@@ -13,6 +13,7 @@
 - 💬 Ask me about **Java, Spring Boot, React, and Full Stack Development**
 - ⚡ I enjoy problem-solving and exploring new technologies.
 - 🌟 I have experience with **Git and GitHub** for version control.
+- ❌ I don’t have any idea about **Data Structures and Algorithms**.
 
 ### 📫 Reach Me
 
