@@ -13,7 +13,7 @@
 - 💬 Ask me about **Java, Spring Boot, React, and Full Stack Development**
 - ⚡ I enjoy problem-solving and exploring new technologies.
 - 🌟 I have experience with **Git and GitHub** for version control.
-- ❌ I don’t have any idea about **Data Structures and Algorithms**.
+- 🤖 I love learning about the latest advancements in technology and applying them to my projects.
 
 ### 📫 Reach Me
 
@@ -25,7 +25,7 @@
 
 ---
 
-### 💻 Languages & Tools
+### 💻 Languages
 
 <p align="center">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
