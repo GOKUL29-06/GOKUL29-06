@@ -7,28 +7,20 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%238A32B1.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-%232B3E50.svg?style=for-the-badge&logo=hibernate&logoColor=white"/>
-</p>
-
----
-
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Java Full Stack Projects**
 - 💬 Ask me about **Java, Spring Boot, React, and Full Stack Development**
-- 📫 Reach me: 
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gokul2916/)
 - ⚡ I enjoy problem-solving and exploring new technologies.
 - 🌟 I have experience with **Git and GitHub** for version control.
+
+### 📫 Reach Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gokul2916/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -54,6 +46,8 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postman.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/github.png" />
 </p>
 
 ---
@@ -72,5 +66,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GOKUL29-06?tab=followers"><img src="https://img.shields.io/github/followers/GOKUL29-06?label=Followers&style=social" alt="GitHub followers"/></a>
+  <a href="https://github.com/GOKUL29-06?tab=followers">
+    <img src="https://img.shields.io/github/followers/GOKUL29-06?label=Followers&style=social" alt="GitHub followers"/>
+  </a>
 </p>
