@@ -46,6 +46,16 @@
 
 ---
 
+### 🛠️ Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
