@@ -26,8 +26,7 @@
 - 🔭 I’m currently working on **Java Full Stack Projects**
 - 💬 Ask me about **Java, Spring Boot, React, and Full Stack Development**
 - 📫 Reach me: 
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
-  (https://www.linkedin.com/in/gokul2916/)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gokul2916/)
 - ⚡ I enjoy problem-solving and exploring new technologies.
 - 🌟 I have experience with **Git and GitHub** for version control.
 
